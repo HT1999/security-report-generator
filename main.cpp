@@ -6,7 +6,7 @@
 #include <vector>
 
 using namespace std;
-string nameFirst, nameLast, unitNumber, type, month, day, hour, status2;
+string nameFirst, nameLast, unitNumber, type, month, day, hour, status2, status3;
 
 string getTime() {
   string time1;
